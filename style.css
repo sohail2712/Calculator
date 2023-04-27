@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding:0px
+}
+
+
+html,body{
+    height:100vh;
+    width:100vw;
+    margin:0px;
+    padding:0px;
+    background:black;
+    color:white;
+}
+
+
+.header{
+    color:white;
+    background:black;
+}
+
+
+#heading{
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+#marq{
+    background:rgb(250, 221, 56);
+    color:blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.img1{
+    width:100vw;
+    height:742px;
+    /*border-style:solid;
+    border-color: yellow;*/
+}
+
+#hthree{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    color:rgb(203, 235, 235);
+}
+.cal{
+    height:742px;
+    margin-left: 610px;
+    margin-top:-750px;
+    /*border-style:solid;
+    border-color: red;*/
+}
+
+.title{
+    text-align: center;
+    font-size: x-large;
+    margin-top: 60px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#num1{
+    border-style: solid;
+    border-color: black;
+    background: blue;
+    text-align: center;
+    color:white;
+    font-size: large;
+    margin-top: 50px;
+    margin-left: 280px;
+    width: 50px;
+    height: 50px;
+    
+}
+#num2{
+    border-style: solid;
+    border-color:black;
+    color:white;
+    font-size: large;
+    text-align: center;
+    background: blue;
+    margin-left: 30px;
+    width: 50px;
+    height: 50px;
+    
+}
+#sum{
+    height: 50px;
+    width: 70px;
+    font-size: xx-large;
+    border-radius: 30px;
+    background: gold;
+    margin-left: 250px;
+    margin-top: 80px;
+    
+
+}
+#sub{
+    height: 50px;
+    width: 70px;
+    font-size: xx-large;
+    border-radius: 30px;
+    background: gold;
+    margin-left: 50px;
+    
+
+}
+#mul{
+    height: 50px;
+    width: 70px;
+    font-size: xx-large;
+    border-radius: 30px;
+    background: gold;
+    margin-left: 250px;
+    margin-top: 20px;
+
+}
+#div{
+    height: 50px;
+    width: 70px;
+    font-size: xx-large;
+    border-radius: 30px;
+    background: gold;
+    margin-left: 50px;
+
+}
+#mod{
+    height: 50px;
+    width: 70px;
+    font-size: xx-large;
+    border-radius: 30px;
+    background: gold;
+    margin-left: 250px;
+    margin-top: 20px;
+
+}
+#exp{
+    height: 50px;
+    width: 70px;
+    font-size: xx-large;
+    border-radius: 30px;
+    background: gold;
+    margin-left: 50px;
+
+}
+
+#sumi{
+
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+
+#htw{
+    color:rgb(203, 235, 235);
+    margin-top: 80px;
+    margin-left: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#hth{
+    color:rgb(199, 82, 111);
+    margin-left: 230px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
